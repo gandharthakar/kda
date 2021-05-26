@@ -1,0 +1,16 @@
+{
+	"video_gallery" : [
+		{
+			"video_path": "https://www.youtube.com/watch?v=J2JQQm1h6xQ",
+	        "video_img_thumb": "https://img.youtube.com/vi/J2JQQm1h6xQ/hqdefault.jpg"
+	    },
+		{
+			"video_path": "https://www.youtube.com/watch?v=eORVpaICbzk",
+	        "video_img_thumb": "https://img.youtube.com/vi/eORVpaICbzk/hqdefault.jpg"
+	    },
+		{
+			"video_path": "https://www.youtube.com/watch?v=mkOin63MfJ0",
+	        "video_img_thumb": "https://img.youtube.com/vi/mkOin63MfJ0/hqdefault.jpg"
+	    }
+	]
+}

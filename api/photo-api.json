@@ -1,0 +1,34 @@
+{
+	"photo_gallery" : [
+		{
+			"img_path": "img/photos/demo1.jpg",
+	        "img_type_title": "Category",
+	        "img_category": "demo1"
+	    },
+	    {
+			"img_path": "img/photos/demo2.jpg",
+	        "img_type_title": "Category",
+	        "img_category": "demo2"
+	    },
+		{
+			"img_path": "img/photos/demo3.jpg",
+	        "img_type_title": "Category",
+	        "img_category": "demo3"
+	    },
+	    {
+			"img_path": "img/photos/demo4.jpg",
+	        "img_type_title": "Category",
+	        "img_category": "demo4"
+	    },
+		{
+			"img_path": "img/photos/demo5.jpg",
+	        "img_type_title": "Category",
+	        "img_category": "demo5"
+	    },
+	    {
+			"img_path": "img/photos/demo6.jpg",
+	        "img_type_title": "Category",
+	        "img_category": "demo6"
+	    }
+	]
+}
